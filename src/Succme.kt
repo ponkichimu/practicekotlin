@@ -1,3 +1,4 @@
+// 再帰呼び出しではなく、自分で呼び出す
 fun summe(numbers: List<Long>): Long {
     var sum = 0L
     for (n in numbers) {

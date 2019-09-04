@@ -1,3 +1,4 @@
+// 関数オブジェクトの呼び出し
 fun square(i :Int): Int = i * i
 
 fun main(args:Array<String>) {

@@ -1,6 +1,6 @@
 
     fun main() {
-        val half = Rational(1,3)
+        val half = Rational(1,0)
         /*分数（有理数）を表示する*/
         println(half)
     }
